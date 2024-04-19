@@ -1,5 +1,5 @@
 # 💫 About Me:
-hello I'm Hugow.dev<br><br>I'm a proactive full-stack developer, I'm looking for new <br>challenges and opportunities in the job market, I deliver more <br>than codes, I deliver experiences.
+hello I'm Hugo.dev<br><br>I'm a proactive full-stack developer, I'm looking for new <br>challenges and opportunities in the job market, I deliver more <br>than codes, I deliver experiences.
 
 
 ## 🌐 Socials:
