@@ -1,4 +1,4 @@
-# 👋 Hello wordl!
+# 👋 Hello world!
 I’m Hugo.dev, a passionate and proactive developer with a deep interest in creating innovative and impactful solutions. My journey in the programming world is marked by a constant desire to learn, evolve, and tackle new challenges.
 
 ## 🌐 Socials:
